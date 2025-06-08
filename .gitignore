@@ -1,0 +1,4 @@
+.envrc
+.terraform
+.github
+.terraform.lock.hcl
